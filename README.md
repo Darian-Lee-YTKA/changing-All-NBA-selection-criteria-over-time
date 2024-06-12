@@ -20,3 +20,10 @@ After these initial results, we used graphs to see where the changes were most p
 decision.
 
 Altogether, these findings indicate interesting shifts in the culture of the NBA where players are being primarily evaluated based on fewer metrics than they were previously. If these changes continue, we would expect metrics like points and free throws to dominate the selection criteria in coming years and other metrics like blocks to slowly become obsolete. 
+
+![top3overtime](top3overtime.png)
+
+![bargraph-ranking](bargraph-ranking.png)
+
+![bargraph-features](bargraph-features.png)
+
