@@ -1,6 +1,6 @@
 
 # Exploring Changes in All-NBA Selection Process Between Decades Using Random Forests 
-credits: data scraped from NBA website by Matthew Holcomb
+**Credits: data scraped from NBA website by Matthew Holcomb**
 
 Random Forests are typically used in classification tasks by compiling large amounts of decision trees and taking a majority vote on their predictions. However, because our logistic regression model already performed impressively well in predicting All-NBA status, we decided to use random forests primarily as a means of analyzing the changes in All-NBA selection criteria over time rather than as a classification model. Because the All-NBA is the primary way of recognizing great players in basketball, such an analysis of its changing selection criteria reveals insights into the evolving culture of the league and its values. This information would be valuable for any sports historian or hobbyist. 
 To do our analysis, we subsetted the main dataset into 2 smaller datasets, one containing player statistics from 2004-2008 and one containing player statistics from 2019-2023. The intuition behind this choice was that we wanted a big enough time gap between our two datasets so that noticeable changes would occur between them.  Both datasets contained over 2,000 observations and will henceforth be referred to as the past and current datasets respectively.
