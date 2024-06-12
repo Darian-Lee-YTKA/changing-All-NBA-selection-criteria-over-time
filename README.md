@@ -25,5 +25,5 @@ Altogether, these findings indicate interesting shifts in the culture of the NBA
 
 ![bargraph-ranking](bargraph-ranking.png)
 
-![bargraph-features](bargraph-features.png)
+![bargraph-feature](bargraph-feature.png)
 
